@@ -1,3 +1,5 @@
+>O desafio já está solucionado mas caso queria tentar é só substituir o diretorio src pelo src_reset e apagar o script builder.py. Não prossegui com a vaga mas aprendi bastante fazendo esse processo seletivo, principalmente por causa dos feedbacks do dev Caio no dia do resultado final. Espero que ajude alguém que também está começando!
+
 # Desafio Técnico - Dev Qualidade
 
 ## Introdução
