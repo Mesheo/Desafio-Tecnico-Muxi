@@ -1,0 +1,9 @@
+use url util "util.wsc>shared";
+use url u_pinpad "u_pinpad.wsc>shared";
+use url u_auto "t_autov.wsc>shared";
+use url t_autom "t_autom.wsc>shared";
+
+extern function HelloWorld()
+{
+    Console.printLn("Hello World!");
+}

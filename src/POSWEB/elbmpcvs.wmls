@@ -1,0 +1,9 @@
+use url u_auto "t_autov.wsc>shared";
+use url t_autom "t_autom.wsc>shared";
+
+const ALIGNMENT_OPTIONS = "top,left;center,center;bottom,right";
+
+extern function startTest(data)
+{
+    String.setElementsPos(data, "|", 14);
+}
