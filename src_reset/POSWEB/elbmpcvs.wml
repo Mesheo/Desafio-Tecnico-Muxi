@@ -1,0 +1,13 @@
+<wml>
+    <template>
+        <do type='prev' label='Voltar'>
+            <go href='#bmpSelectTest'>
+                <setenv name='rsId' value=''/>
+                <setenv name='VWRESUME' value=''/>
+                <setenv name='TRESUME' value=''/>
+                <setenv name='returnWml' value=''/>
+            </go>
+        </do>
+    </template>
+    <card id="bmpCanvas" title="BmpCanvas" onenterforward="f:elbmpcvs.wsc#selectFont()" onenterbackward="f:ptwsc.wml#extended">
+</wml>

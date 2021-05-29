@@ -1,0 +1,8 @@
+<wml>
+    <template>
+        <do type='prev' label='Voltar'>
+            <go href='$prevCard'/>
+        </do>
+    </template>
+    <card id='main' onenterforward='#mainMenu' onenterbackward='#mainMenu'/>
+</wml>
